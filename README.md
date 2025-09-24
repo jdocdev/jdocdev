@@ -117,7 +117,7 @@ const juan = {
 
 ---
 
-## 💼 Experiencia e Impacto
+## 💼 Experiencia reciente
 
 <table>
   <tr>
@@ -170,7 +170,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-> 📅 Se actualiza automáticamente todos los días
+> 📅 Se actualiza automáticamente
 
 ---
 
