@@ -1,7 +1,6 @@
 <div align="center">
   <h1> ¡Hola! 👋 Soy Juan Ortiz </h1>
 </div>
-<div align="center">
 
 <div align="center">
   
@@ -22,7 +21,7 @@
 ```javascript
 const juan = {
     ubicacion: "Medellín, Colombia 🇨🇴",
-    rolActual: "Desarrollador Web @ Granada Software",
+    rolActual: "Desarrollador Web en Granada Software s.a.s",
     pasiones: ["Desarrollo de Software", "Enseñanza", "Creación de Contenido"],
     aprendiendoActualmente: ["Flutter", "GraphQL", "Docker", "Microservicios"],
     comunidades: {
