@@ -10,11 +10,11 @@
 
 [![Visitas del Perfil](https://komarev.com/ghpvc/?username=jdocdev&label=Visitas%20del%20perfil&color=00d8ff&style=flat)](https://github.com/jdocdev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JuanDavid_Dev?logo=twitter&style=for-the-badge&color=1DA1F2&label=Sígueme)](https://twitter.com/JuanDavid_Dev)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYjhalEv_oVK2mKBOzIKS8w?style=for-the-badge&color=FF0000&label=Suscriptores)](https://youtube.com/@juandavid_dev)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtvW6edonCGLQK9Y0wtVP6g?style=for-the-badge&color=FF0000&label=Suscriptores)](https://youtube.com/@juandavid_dev)
 
 </div>
 
----
+<!-- ---
 
 ## 🚀 Sobre Mí
 
@@ -45,7 +45,7 @@ const juan = {
 
 </details>
 
----
+--- -->
 
 ## 🛠️ Stack Tecnológico
 
@@ -174,16 +174,16 @@ No activity tracked
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### 💭 Frase Dev Aleatoria
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> -->
 
-**¡Gracias por visitar mi perfil! No dudes en contactarme si quieres colaborar en proyectos emocionantes! 🚀**
+**¡Gracias por visitar mi perfil! No dudes en contactarme si quieres colaborar en proyectos emocionantes!**
 
 *"El mejor código es el que se escribe para que otros puedan entenderlo y mejorarlo." – Martin Fowler*
 
