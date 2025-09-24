@@ -157,13 +157,79 @@ const juan = {
 ## 📊 Desglose Semanal de Desarrollo
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/Desde%20Hola%20Mundo%20he%20escrito-1.3%20million%20Lineas%20de%20c%C3%B3digo-blue)
+
+**🐱 Mis datos de GitHub** 
+
+> 📦 ? Almacenamiento de GitHub utilizado 
+ > 
+> 🏆 100 Contribuciones durante el año 2025
+ > 
+> 🚫 No abierto para contratación
+ > 
+> 📜 79 Repositorios Públicos 
+ > 
+> 🔑 0 Repositorios Privados 
+ > 
+**Soy diurno 🐤** 
+
 ```text
-JavaScript   12 hrs 45 mins  ████████████░░░░░░░░░░░░░   48.2%
-TypeScript    6 hrs 30 mins  ██████░░░░░░░░░░░░░░░░░░░   24.6%
-PHP           4 hrs 15 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.1%
-HTML/CSS      2 hrs 20 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    8.8%
-Otros         0 hrs 35 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░    2.3%
+🌞 Mañana                 85 commits          ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+🌆 Día                    105 commits         ████████░░░░░░░░░░░░░░░░░   32.01 % 
+🌃 Tarde                  127 commits         ██████████░░░░░░░░░░░░░░░   38.72 % 
+🌙 Noche                  11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 ```
+📅 **Soy más productivo los Jueves** 
+
+```text
+Lunes                    48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Martes                   54 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Miércoles                50 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Jueves                   59 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Viernes                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Sábado                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Domingo                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+```
+
+
+📊 **Esta semana me dediqué a** 
+
+```text
+🕑︎ Zona Horaria: America/Bogota
+
+💬 Lenguajes: 
+Sin actividad registrada esta semana
+
+🔥 Editores: 
+Sin actividad registrada esta semana
+
+🐱‍💻 Proyectos: 
+Sin actividad registrada esta semana
+
+💻 Sistema Operativo: 
+Sin actividad registrada esta semana
+```
+
+**Programo principalmente en HTML** 
+
+```text
+HTML                     26 repos            █████████░░░░░░░░░░░░░░░░   34.67 % 
+JavaScript               23 repos            ████████░░░░░░░░░░░░░░░░░   30.67 % 
+CSS                      16 repos            █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+```
+
+
+
+**Cronología**
+
+![Lines of Code chart](https://raw.githubusercontent.com/jdocdev/jdocdev/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/09/2025 03:26:55 UTC
 <!--END_SECTION:waka-->
 
 > 📅 Se actualiza automáticamente todos los días a las 9:25 PM (hora Colombia)
