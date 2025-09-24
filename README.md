@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> ¡Hola! 👋 Soy Juan Ortiz </h1>
+  <h1> ¡Hola! Soy Juan David </h1>
 </div>
 
 <div align="center">
@@ -8,48 +8,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-[![Visitas del Perfil](https://komarev.com/ghpvc/?username=jdocdev&label=Visitas%20del%20perfil&color=00d8ff&style=flat)](https://github.com/jdocdev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/JuanDavid_Dev?logo=twitter&style=for-the-badge&color=1DA1F2&label=Sígueme)](https://twitter.com/JuanDavid_Dev)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCtvW6edonCGLQK9Y0wtVP6g?style=for-the-badge&color=FF0000&label=Suscriptores)](https://youtube.com/@juandavid_dev)
+[![Visitas del Perfil](https://komarev.com/ghpvc/?username=jdocdev&label=Visitas%20del%20perfil&color=00d8ff&style=for-the-badge)](https://github.com/jdocdev)
+[![YouTube Suscriptores](https://img.shields.io/badge/YouTube-%2B3.7K%20Suscriptores-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@juandavid_dev)
+[![Udemy Students](https://img.shields.io/badge/Udemy-7K%2B%20estudiantes-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/juan-ortiz-155/)
 
 </div>
 
-<!-- ---
-
-## 🚀 Sobre Mí
-
-```javascript
-const juan = {
-    ubicacion: "Medellín, Colombia 🇨🇴",
-    rolActual: "Desarrollador Web en Granada Software s.a.s",
-    pasiones: ["Desarrollo de Software", "Enseñanza", "Creación de Contenido"],
-    aprendiendoActualmente: ["Flutter", "GraphQL", "Docker", "Microservicios"],
-    comunidades: {
-        youtube: "3.5K+ suscriptores",
-        udemy: "6K+ estudiantes",
-        visualizacionesTotales: "345K+ reproducciones"
-    },
-    preguntameAcerca: ["JavaScript", "TypeScript", "React", "Laravel", "PHP"],
-    portafolio: "https://jdocdev-portfolio.netlify.app"
-};
-```
-
-<details>
-<summary>📊 <b>Más sobre mi trayectoria</b></summary>
-
-- 🔭 Actualmente trabajando en **Granada Software s.a.s** como Desarrollador Web
-- 🌱 Aprendiendo constantemente **Flutter, GraphQL, Docker, Microservicios**
-- 👨‍🏫 Enseñando y mentoring a través de **YouTube & Udemy**
-- 💡 Me encanta compartir conocimiento sobre desarrollo web
-- ⚡ Dato curioso: ¡He ayudado a más de 6,000 estudiantes a aprender programación!
-
-</details>
-
---- -->
-
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ### Frontend
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -62,6 +30,7 @@ const juan = {
 </div>
 
 ### Backend y Base de Datos
+
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -73,6 +42,7 @@ const juan = {
 </div>
 
 ### Herramientas y Diseño
+
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -83,6 +53,7 @@ const juan = {
 </div>
 
 ### Aprendiendo
+
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -92,7 +63,7 @@ const juan = {
 
 ---
 
-## 📊 Análisis de GitHub
+## Análisis de GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdocdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es"/>
@@ -109,7 +80,7 @@ const juan = {
 
 ---
 
-## 🏆 Trofeos de GitHub
+## Trofeos de GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/api/?username=jdocdev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&locale=es" />
@@ -117,42 +88,36 @@ const juan = {
 
 ---
 
-## 💼 Experiencia reciente
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Granada%20Software-Actual-00D8FF?style=for-the-badge" />
-      <br><strong>Desarrollador Web</strong>
-      <br><em>Oct 2024 - Presente</em>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Creador%20de%20Contenido-Freelance-FF6B6B?style=for-the-badge" />
-      <br><strong>Instructor Técnico</strong>
-      <br><em>Nov 2021 - Presente</em>
-    </td>
-  </tr>
-</table>
-
-### 📈 Impacto en la Comunidad
-- 🎥 **345,000+** reproducciones totales de videos
-- 👨‍🎓 **6,000+** estudiantes enseñados en Udemy  
-- 📺 **3,500+** suscriptores en YouTube
-- 💻 He ayudado a cientos a aprender desarrollo web moderno
-
----
-
-## 🤝 Conéctate Conmigo
+## Experiencia reciente
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jdocdev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/JuanDavid_Dev)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@juandavid_dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juandavid_dev)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jdocdev-portfolio.netlify.app/)
-
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Granada%20Software-Actual-00D8FF?style=for-the-badge" />
+        <br><strong>FullStack Software Developer</strong>
+        <br><em>Oct 2024 - Presente</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Creador%20de%20Contenido-Freelance-FF6B6B?style=for-the-badge" />
+        <br><strong>Instructor Técnico</strong>
+        <br><em>Nov 2021 - Presente</em>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Wikan%20BPO-FullStack-6C3483?style=for-the-badge" />
+        <br><strong>FullStack Software Developer</strong>
+        <br><em>Ene 2024 - Sept 2024</em>
+      </td>
+    </tr>
+  </table>
 </div>
+
+### 📈 Impacto en la Comunidad
+
+-   **3,700+** suscriptores en ![YouTube]([https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://youtube.com/@juandavid_dev))
+-   **370,000+** reproducciones totales de videos en ![YouTube]([https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://youtube.com/@juandavid_dev))
+-   **7,000+** estudiantes en ![Udemy]([https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white](https://www.udemy.com/user/juan-ortiz-155/))
+-   He ayudado con amor y dedicación a cientos de personas a aprender desarrollo web
 
 ---
 
@@ -170,21 +135,23 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-> 📅 Se actualiza automáticamente
-
 ---
 
-<!-- <div align="center">
-
-### 💭 Frase Dev Aleatoria
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> -->
+<div align="center">
 
 **¡Gracias por visitar mi perfil! No dudes en contactarme si quieres colaborar en proyectos emocionantes!**
 
-*"El mejor código es el que se escribe para que otros puedan entenderlo y mejorarlo." – Martin Fowler*
+_"El mejor código es el que se escribe para que otros puedan entenderlo y mejorarlo." – Martin Fowler_
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![X TWITTER](https://img.shields.io/badge/%20TWITTER-383838?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/JuanDavid_Dev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@juandavid_dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juandavid_dev)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/juan-ortiz-155/)
 
 </div>
