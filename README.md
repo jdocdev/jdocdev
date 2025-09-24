@@ -159,56 +159,14 @@ const juan = {
 ## 📊 Actividad en Desarrollo
 
 <!--START_SECTION:waka-->
-**🐱 Mis datos de GitHub** 
 
-> 📦 ? Almacenamiento de GitHub utilizado 
- > 
-> 🏆 100 Contribuciones durante el año 2025
- > 
-> 🚫 No abierto para contratación
- > 
-> 📜 79 Repositorios Públicos 
- > 
-> 🔑 0 Repositorios Privados 
- > 
-📅 **Soy más productivo los Martes** 
+```txt
+From: 16 September 2025 - To: 23 September 2025
 
-```text
-Lunes                    48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Martes                   59 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Miércoles                50 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Jueves                   59 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Viernes                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Sábado                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Domingo                  48 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Total Time: 0 secs
+
+No activity tracked
 ```
-
-
-📊 **Esta semana me dediqué a** 
-
-```text
-🕑︎ Zona Horaria: America/Bogota
-
-💬 Lenguajes: 
-Sin actividad registrada esta semana
-```
-
-**Programo principalmente en HTML** 
-
-```text
-HTML                     26 repos            █████████░░░░░░░░░░░░░░░░   34.67 % 
-JavaScript               23 repos            ████████░░░░░░░░░░░░░░░░░   30.67 % 
-CSS                      16 repos            █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-```
-
-
-
-**Cronología**
-
-![Lines of Code chart](https://raw.githubusercontent.com/jdocdev/jdocdev/main/assets/bar_graph.png)
-
 
 <!--END_SECTION:waka-->
 
