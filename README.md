@@ -1,4 +1,7 @@
-# ¡Hola! 👋 Soy Juan Ortiz
+<div align="center">
+  <h1> ¡Hola! 👋 Soy Juan Ortiz </h1>
+</div>
+<div align="center">
 
 <div align="center">
   
@@ -20,7 +23,7 @@
 const juan = {
     ubicacion: "Medellín, Colombia 🇨🇴",
     rolActual: "Desarrollador Web @ Granada Software",
-    pasiones: ["Código Limpio", "Enseñanza", "Creación de Contenido"],
+    pasiones: ["Desarrollo de Software", "Enseñanza", "Creación de Contenido"],
     aprendiendoActualmente: ["Flutter", "GraphQL", "Docker", "Microservicios"],
     comunidades: {
         youtube: "3.5K+ suscriptores",
@@ -38,7 +41,7 @@ const juan = {
 - 🔭 Actualmente trabajando en **Granada Software s.a.s** como Desarrollador Web
 - 🌱 Aprendiendo constantemente **Flutter, GraphQL, Docker, Microservicios**
 - 👨‍🏫 Enseñando y mentoring a través de **YouTube & Udemy**
-- 💡 Me encanta compartir conocimiento sobre desarrollo web moderno
+- 💡 Me encanta compartir conocimiento sobre desarrollo web
 - ⚡ Dato curioso: ¡He ayudado a más de 6,000 estudiantes a aprender programación!
 
 </details>
@@ -154,19 +157,15 @@ const juan = {
 
 ---
 
-## 📊 Desglose Semanal de Desarrollo
+## 📊 Actividad en Desarrollo
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 45 mins  ████████████░░░░░░░░░░░░░   48.2%
-TypeScript    6 hrs 30 mins  ██████░░░░░░░░░░░░░░░░░░░   24.6%
-PHP           4 hrs 15 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.1%
-HTML/CSS      2 hrs 20 mins  ██░░░░░░░░░░░░░░░░░░░░░░░    8.8%
-Otros         0 hrs 35 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░    2.3%
+Componente en pruebas  0 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 ```
 <!--END_SECTION:waka-->
 
-> 📅 Se actualiza automáticamente todos los días a las 9:25 PM (hora Colombia)
+> 📅 Se actualiza automáticamente todos los días
 
 ---
 
