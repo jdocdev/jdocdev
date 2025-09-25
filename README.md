@@ -125,6 +125,18 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 17 September 2025 - To: 24 September 2025
+
+Total Time: 1 hr 1 min
+
+YAML       36 mins         ████████████▒░░░░░░░░░░░░   49.62 %
+Markdown   20 mins         ███████▒░░░░░░░░░░░░░░░░░   28.69 %
+Other      11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Dart       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
