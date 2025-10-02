@@ -121,26 +121,6 @@
 
 ---
 
-## 📊 Actividad en Desarrollo
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 24 September 2025 - To: 01 October 2025
-
-Total Time: 11 hrs 51 mins
-
-Other               30 hrs 30 mins  ██████████████████░░░░░░░   72.01 %
-Dart                3 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-JavaScript          2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-TypeScript          2 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-YAML                1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-```
-
-<!--END_SECTION:waka-->
-
----
-
 <div align="center">
 
 **¡Gracias por visitar mi perfil! No dudes en contactarme si quieres colaborar en proyectos emocionantes!**
