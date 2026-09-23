@@ -72,12 +72,12 @@
 ## Análisis de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=jdocdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=jdocdev&layout=compact&theme=tokyonight&hide_border=true&locale=es"/>
+  <img height="180em" src="./assets/stats.svg"/>
+  <img height="180em" src="./assets/top-langs.svg"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdocdev&theme=tokyonight&hide_border=true&locale=es" />
+  <img src="./assets/streak.svg" />
 </div>
 
 <div align="center">
@@ -89,7 +89,7 @@
 ## Trofeos de GitHub
 
 <div align="center">
-  <img src="https://trophy.ryglcloud.net/?username=jdocdev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&locale=es" />
+  <img src="./assets/trophy.svg" />
 </div>
 
 ---
