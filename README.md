@@ -9,8 +9,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 [![Visitas del Perfil](https://komarev.com/ghpvc/?username=jdocdev&label=Visitas%20del%20perfil&color=00d8ff&style=for-the-badge)](https://github.com/jdocdev)
-[![YouTube Suscriptores](https://img.shields.io/badge/YouTube-%2B3.7K%20Suscriptores-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@juandavid_dev)
-[![Udemy Students](https://img.shields.io/badge/Udemy-7K%2B%20estudiantes-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/juan-ortiz-155/)
+[![YouTube Suscriptores](https://img.shields.io/badge/YouTube-%2B3.9K%20Suscriptores-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@juandavid_dev)
+[![Udemy Students](https://img.shields.io/badge/Udemy-10.4K%2B%20estudiantes-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/juan-ortiz-155/)
 
 </div>
 
@@ -52,12 +52,18 @@
 
 </div>
 
-### Aprendiendo
+### Inteligencia Artificial
 
 <div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge)
+![Agentes IA](https://img.shields.io/badge/Agentes%20IA-6C3483?style=for-the-badge)
+![Agent Skills](https://img.shields.io/badge/Agent%20Skills-00D8FF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-E10098?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-1C3C3C?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-02569B?style=for-the-badge)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-43853D?style=for-the-badge)
 
 </div>
 
@@ -66,8 +72,8 @@
 ## Análisis de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdocdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdocdev&layout=compact&theme=tokyonight&hide_border=true&locale=es"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=jdocdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=jdocdev&layout=compact&theme=tokyonight&hide_border=true&locale=es"/>
 </div>
 
 <div align="center">
@@ -83,7 +89,7 @@
 ## Trofeos de GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=jdocdev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&locale=es" />
+  <img src="https://trophy.ryglcloud.net/?username=jdocdev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&locale=es" />
 </div>
 
 ---
@@ -114,9 +120,9 @@
 
 ### 📈 Impacto en la Comunidad
 
--   **3,700+** suscriptores en ![YouTube]([https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://youtube.com/@juandavid_dev))
--   **370,000+** reproducciones totales de videos en ![YouTube]([https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://youtube.com/@juandavid_dev))
--   **7,000+** estudiantes en ![Udemy]([https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white](https://www.udemy.com/user/juan-ortiz-155/))
+-   **3,900+** suscriptores en [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@juandavid_dev)
+-   **370,000+** reproducciones totales de videos en [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@juandavid_dev)
+-   **10,400+** estudiantes en [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/juan-ortiz-155/)
 -   He ayudado con amor y dedicación a cientos de personas a aprender desarrollo web
 
 ---
@@ -133,9 +139,7 @@ _"El mejor código es el que se escribe para que otros puedan entenderlo y mejor
 
 <div align="center">
 
-[![X TWITTER](https://img.shields.io/badge/%20TWITTER-383838?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/JuanDavid_Dev)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@juandavid_dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juandavid_dev)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/juan-ortiz-155/)
 
 </div>
