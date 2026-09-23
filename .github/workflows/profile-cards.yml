@@ -43,18 +43,6 @@ jobs:
           path: assets/streak.svg
           token: ${{ secrets.STATS_TOKEN }}
 
-      - name: Generate trophy card
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: jdocdev
-          file: assets/trophy.svg
-          theme: tokyonight
-          no-frame: true
-          no-background: true
-          max-cols: 6
-          max-rows: 1
-          token: ${{ secrets.STATS_TOKEN }}
-
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"

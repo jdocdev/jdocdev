@@ -89,7 +89,7 @@
 ## Trofeos de GitHub
 
 <div align="center">
-  <img src="./assets/trophy.svg" />
+  <img src="https://trophy.ryglcloud.net/?username=jdocdev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&locale=es" />
 </div>
 
 ---
