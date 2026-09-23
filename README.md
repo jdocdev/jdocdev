@@ -120,9 +120,9 @@
 
 ### 📈 Impacto en la Comunidad
 
--   **3,900+** suscriptores en [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@juandavid_dev)
--   **370,000+** reproducciones totales de videos en [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@juandavid_dev)
--   **10,400+** estudiantes en [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/juan-ortiz-155/)
+-   **3,900+** suscriptores en YouTube
+-   **425,000+** reproducciones totales de videos en YouTube
+-   **10,400+** estudiantes en Udemy
 -   He ayudado con amor y dedicación a cientos de personas a aprender desarrollo web
 
 ---
